@@ -54,6 +54,61 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "hardware",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://picsum.photos/490/360?random=1&blur=2',
+        likes: 400,
+        timestamp: "July 17th 2017, 12:42:40 pm",
+        comments: [
+            {
+                id: 22,
+                username: "philzcoffee",
+                text: "Integer accumsan sit amet arcu.",
+            },
+            {
+                id: 23,
+                username: "biancasaurus",
+                text: "Morbi cursus auctor venenatis. Sed.!",
+            },
+            {
+                id: 24,
+                username: "martinseludo",
+                text: "Vestibulum varius ante ac erat.",
+            },
+        ],
+    },
+    {
+        id: 4,
+        username: "mercy",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://picsum.photos/490/360?random=2&blur=2',
+        likes: 400,
+        timestamp: "July 17th 2017, 12:42:40 pm",
+        comments: [
+            {
+                id: 36,
+                username: "twitch",
+                text: "Curabitur at sagittis enim, pretium.",
+            },
+            {
+                id: 37,
+                username: "michaelmarzetta",
+                text: "Nam lacinia rhoncus turpis at.",
+            },
+            {
+                id: 38,
+                username: "themexican_leprechaun",
+                text: "Nulla maximus, nunc ac tristique.",
+            },
+            {
+                id: 39,
+                username: "dennis_futbol",
+                text: "Mauris gravida semper ultrices. Donec.",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
